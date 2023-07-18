@@ -16,3 +16,4 @@ class Layer_Dense:
 
 
 print(0.10 *   np.random.randn(4, 3))
+print(0.10 *   np.random.randn(4, 3))
